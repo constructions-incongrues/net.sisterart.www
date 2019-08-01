@@ -1,0 +1,42 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+ 
+/*
+ * Source-sans-pro
+================================================================================ */
+@font-face {
+  font-family: "sourcesanspro-regular";
+  src: url("../fonts/Source-Sans-Pro/Source-Sans-Pro.woff2") format("woff2"), url("../fonts/Source-Sans-Pro/Source-Sans-Pro.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "sourcesanspro-italic";
+  src: url("../fonts/Source-Sans-Pro-Italic/Source-Sans-Pro-Italic.woff2") format("woff2"), url("../fonts/Source-Sans-Pro-Italic/Source-Sans-Pro-Italic.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "sourcesanspro-bold";
+  src: url("../fonts/Source-Sans-Pro-Bold-V1/Source-Sans-Pro-Bold-V1.woff2") format("woff2"), url("../fonts/Source-Sans-Pro-Bold-V1/Source-Sans-Pro-Bold-V1.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*
+ * DIN
+================================================================================ */
+@font-face {
+  font-family: "din-bold";
+  src: url("../fonts/DIN-Bold/DIN-Bold.woff2") format("woff2"), url("../fonts/DIN-Bold/DIN-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "din-regular";
+  src: url("../fonts/DIN-Regular/DIN-Regular.woff2") format("woff2"), url("../fonts/DIN-Regular/DIN-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
