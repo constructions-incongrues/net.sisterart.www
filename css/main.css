@@ -2565,6 +2565,17 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin-bottom: 4.2rem;
 }
 
+.contact-info .cinfo ul {
+  margin: 0;
+}
+.contact-info .cinfo li {
+  list-style-type: none;
+}
+
+.contact-info .cinfo li a {
+  color: #fff;
+}
+
 /* contact form */
 #contact form {
   margin-top: 0;
